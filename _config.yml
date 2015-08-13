@@ -10,8 +10,8 @@ relative_permalinks: true
 title:            BlackDoc
 tagline:          Black Theme for Jekyll
 description:      "A two-column black theme with a scrolling sidebar. Ideal for sites requiring a master-detail layout, e.g. documentation, cheatsheets, lyrics, notes..."
-url:              https://github.com/karloespiritu/blackdoc
-baseurl:          /
+url:              http://windy9527.github.io/myJekyll/
+baseurl:          /myJekyll
 
 author:
   name:           'Karlo Espiritu'
