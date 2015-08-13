@@ -7,11 +7,11 @@ permalink:        pretty
 relative_permalinks: true
 
 # Setup
-title:            BlackDoc
+title:            Windy9527
 tagline:          Black Theme for Jekyll
 description:      "A two-column black theme with a scrolling sidebar. Ideal for sites requiring a master-detail layout, e.g. documentation, cheatsheets, lyrics, notes..."
 url:              http://windy9527.github.io/myJekyll/
-baseurl:          /myJekyll
+baseurl:          /
 
 author:
   name:           'Karlo Espiritu'
