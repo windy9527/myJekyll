@@ -1,5 +1,6 @@
-name: Jekyll Themes
-url: http://matt.harzewski.com
+name: windy9527
+url: http://windy9527.github.io/myJekyll/
+baseurl: /myJekyll
 description: Insert tagline here
 
 permalink: /themes/:title/
