@@ -1,4 +1,14 @@
-# This URL is the main address for absolute links. Don't include a slash at the end.
-#
-url: 'https://phlow.github.io/feeling-responsive'
-baseurl: '/myJekyll'
+name: Jekyll Themes
+url: http://matt.harzewski.com
+description: Insert tagline here
+
+permalink: /themes/:title/
+
+highlighter: pygments
+paginate: 20
+
+markdown: rdiscount
+rdiscount:
+    extensions: ['smart']
+
+exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile']
