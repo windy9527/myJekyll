@@ -69,7 +69,7 @@ exclude:
 
 
 # The language setting is used in /includes/header.html for html-settings
-language: "ch"
+language: "en"
 
 
 # Used › default.html front-matter and comress.html
